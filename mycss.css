@@ -1,9 +1,20 @@
 body {
-    background-color: #45f5f2;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
 
+header {
+    width: 100%;
+    background-color: #ffffff; 
+    overflow: hidden;
+}
+
+.header-image {
+    width: 100%;       
+    height: auto;      
+    display: block;     
+}
 
 .top-container {
     text-align: center;
@@ -127,4 +138,3 @@ hr {
     text-decoration: underline;
     color: #ff0000;
 }
-
